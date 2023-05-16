@@ -1,7 +1,7 @@
 # Wizard-CardGame
 # A recreation and reimagination (as far as my capabilities could allow) of the turn-based, card-based combat of Wizard101. 
-I coded it in Java and NetBeans, using JFrame for the graphical interface.
-From this project, I learnt three fundamental skills: 
+I coded this in Java and on NetBeans, and I used JFrame for the graphical interface.
+# From this project, I learnt three fundamental skills: 
 (1) It made me truly understand and become familiar with Object-oriented programming, becuase I had to author a Player class, a Card class, as well as class for each frame (e.g., Battle frame or the GameOver frame).
 (2) It taught me how to use flow-charts and ensure the logic of the program allowed for logical transitions from phase to phase (e.g., when the player's health is zero, move the program to the GameOver frame) 
 (3) It taught me how to make GUIs, create buttons, color the screen, and integrate custom images into the program
