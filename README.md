@@ -6,10 +6,10 @@ I coded this in Java and on NetBeans, and I used JFrame for the graphical interf
 2. It taught me how to use flow-charts and ensure the logic of the program allowed for logical transitions from phase to phase (e.g., when the player's health is zero, move the program to the GameOver frame).
 3. It taught me how to make GUIs, create buttons, color the screen, display and alter the text, as well as integrate my own custom images into the program.
 # Here are images showcasing the actual game: 
-![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/8be909a1-69d1-4b5a-9f32-a7a535c5266e)
-![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/e27d78f9-6ea6-4604-b055-9326f12d761d)
-![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/336856d1-622d-4621-9575-e0d1556bef72)
-![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/48244ec4-ab1f-46e8-8674-74889ae543b8)
-![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/1e12c531-acf7-4fde-b378-d5d4f4a0a1f9)
-![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/5bab63b9-082f-4b31-bd5e-84bf7684a7a1)
+![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/2b15965d-1fd0-4c67-a9ca-9211b8783894)
+![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/6ece93ca-739c-4e6b-8bd9-74f8d673c9dd)
+![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/8613411a-357c-483d-aae0-3797cc123247)
+![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/4b6c1640-61c9-4518-a59d-96d687faa122)
+![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/a0e8ffbe-751c-4313-b12c-c814413d1abd)
+![image](https://github.com/beyondnoji/Wizard-CardGame/assets/77652781/b922ec12-c507-45a5-9b87-b5ca177d77bd)
 
